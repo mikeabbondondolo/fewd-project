@@ -137,6 +137,74 @@ i span {
   box-shadow: 0px 0px 3px 0px rgba(50, 50, 50, 0.6);
 }
 
+
+
+
+/*
+.home-content {
+  position: relative;
+}
+
+.home-content img {
+  width: 100%;
+  vertical-align: top;
+}
+
+.home-content:after. .home-drivers:before {
+  position: absolute;
+  opacity: 0;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+}
+
+.home-content:after {
+  content: '\A';
+  width: 100%; height: 100%;
+  top: 0; left: 0;
+  background: rgba(0,0,0,0.6);
+  display: inline-block;
+}
+
+.home-content:before {
+  content: attr(data-content);
+  width: 100%;
+  color: #fff;
+  z-index: 1;
+  bottom: 0;
+  padding: 4px 10px;
+  text-align: center;
+  background: grey;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+.home-content:hover:after, .home-content:hover:before {
+  opacity: 1;
+}*/
+
+/*.hover-drivers-hidden{
+
+}
+
+.hover-drivers-appear {
+}
+
+.hover-drivers-appear:hover {
+  position: relative;
+  background: black;
+  text-align: center;
+  opacity: .25;
+  color: black;
+  font-weight: 800;
+  font-size: 45px;
+  text-transform: uppercase;
+  line-height: 1;
+  font-family: 'Raleway', sans-serif;
+  display: inline-block;
+}
+*/
+
+
 .content {
   position: relative;
   background: #464646 url("../img/bk-bridge-1.jpg") no-repeat center center fixed;
@@ -195,7 +263,64 @@ i span {
 }
 /* END button */
 
+/* START Homepage Drivers */
+.homepage-driver-one {
+  text-align: center;
+  padding: 40px;
+  height: 100%;
+  display: block;
+  background: url("file:///Users/Mike/fewd-project/img/homepage_driver_tenpin.jpg") no-repeat;
+}
 
+.homepage-driver-two {
+  text-align: center;
+  padding: 40px;
+  height: 100%;
+  display: block;
+  background: url("file:///Users/Mike/fewd-project/img/homepage_driver_about.jpg") no-repeat;
+}
+
+.homepage-driver-three {
+  text-align: center;
+  padding: 40px;
+  height: 100%;
+  display: block;
+  background: url("file:///Users/Mike/fewd-project/img/homepage_driver_localvore.jpg") no-repeat;
+}
+
+.homepage-driver-four {
+  text-align: center;
+  padding: 40px;
+  height: 100%;
+  display: block;
+  background: url("file:///Users/Mike/fewd-project/img/homepage_driver_vast.jpg") no-repeat;
+}
+
+.homepage-driver-five {
+  text-align: center;
+  padding: 40px;
+  height: 100%;
+  display: block;
+  background: url("file:///Users/Mike/fewd-project/img/homepage_driver_misty.jpg") no-repeat;
+}
+
+.homepage-driver-six {
+  text-align: center;
+  padding: 40px;
+  height: 100%;
+  display: block;
+  background: url("file:///Users/Mike/fewd-project/img/homepage_driver_glade.jpg") no-repeat;
+}
+
+/* END Homepage Drivers */
+
+.driver-headers {
+  font-size: 24px;
+  text-align: center;
+  font-family: 'Raleway', bold 700 sans-serif;
+  color: white;
+
+}
 
 .block {
   height: 300px;
@@ -255,9 +380,6 @@ i span {
   font-size: 12px;
 }
 
-
-
-
 /* END Forms */
 
 .col-1-1 {
@@ -272,6 +394,7 @@ i span {
   padding: 20px 40px;
   margin: 0px;
 }
+
 
 
 .icon {
