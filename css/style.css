@@ -225,7 +225,7 @@ i span {
   padding: 40px;
   height: 100%;
   display: block;
-  background: url("c:/img/homepage_driver_about.jpg") no-repeat;
+  background: url("file:///Users/Mike/fewd-project/img/homepage_driver_about.jpg") no-repeat;
 }
 
 .homepage-driver-three {
@@ -233,7 +233,7 @@ i span {
   padding: 40px;
   height: 100%;
   display: block;
-  background: url("c:/img/homepage_driver_localvore.jpg") no-repeat;
+  background: url("file:///Users/Mike/fewd-project/img/homepage_driver_localvore.jpg") no-repeat;
 }
 
 .homepage-driver-four {
@@ -241,7 +241,7 @@ i span {
   padding: 40px;
   height: 100%;
   display: block;
-  background: url("c:/img/homepage_driver_vast.jpg") no-repeat;
+  background: url("file:///Users/Mike/fewd-project/img/homepage_driver_vast.jpg") no-repeat;
 }
 
 .homepage-driver-five {
@@ -249,7 +249,7 @@ i span {
   padding: 40px;
   height: 100%;
   display: block;
-  background: url("c:/img/homepage_driver_misty.jpg") no-repeat;
+  background: url("file:///Users/Mike/fewd-project/img/homepage_driver_misty.jpg") no-repeat;
 }
 
 .homepage-driver-six {
@@ -257,7 +257,7 @@ i span {
   padding: 40px;
   height: 100%;
   display: block;
-  background: url("c:/img/homepage_driver_glade.jpg") no-repeat;
+  background: url("file:///Users/Mike/fewd-project/img/homepage_driver_glade.jpg") no-repeat;
 }
 
 /* END Homepage Drivers */
