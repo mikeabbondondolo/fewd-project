@@ -401,6 +401,13 @@ i span {
   height: 50%;
 }
 
+.content-contact {
+  position: relative;
+  background: #464646 url("../img/contact.jpg") no-repeat center center fixed;
+  background-size: cover;
+
+}
+
 /* START Footer */
 
 .footer {
