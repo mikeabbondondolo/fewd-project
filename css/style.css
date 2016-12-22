@@ -156,7 +156,12 @@ i span {
   position: relative;
   background: #464646 url("../img/IMG_7201.jpg") no-repeat center center fixed;
   background-size: cover;
+}
 
+.content-contact {
+  position: relative;
+  background: #464646 url("../img/IMG_7161.jpg.jpg") no-repeat center center fixed;
+  background-size: cover;
 }
 
 .description, .some-related-articles {
