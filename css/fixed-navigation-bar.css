@@ -65,10 +65,10 @@ a.sitename, a:visited.sitename {
   color: #dde1e2
 }
 .show {
-  background-image: url("file:///Users/Mike/fewd-project/img/down-arrow-icon.png");
+  background-image: url("../img/down-arrow-icon.png");
 }
 .hide {
-  background-image: url("file:///Users/Mike/fewd-project/img/up-arrow-icon.png");
+  background-image: url("../img/up-arrow-icon.png");
 }
 
 @media only screen and (max-width: 767px) {
