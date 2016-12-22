@@ -332,6 +332,11 @@ i span {
 
 /* END Forms */
 
+.clouds {
+  display: inline-block;
+}
+
+
 .col-1-1 {
   background-color: white;
   padding: 40px;
@@ -401,6 +406,8 @@ i span {
 .footer {
   background-color: black;
   color: white;
+  margin-top: -25px;
+  text-align: center;
 }
 
 
