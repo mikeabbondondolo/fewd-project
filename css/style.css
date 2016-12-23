@@ -164,6 +164,12 @@ i span {
   background-size: cover;
 }
 
+.content-about {
+  position: relative;
+  background: #464646 url("../img/IMG_7161.jpg.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
 .description, .some-related-articles {
   width: 90%;
   max-width: 960px;
