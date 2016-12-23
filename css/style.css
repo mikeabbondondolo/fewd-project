@@ -160,13 +160,13 @@ i span {
 
 .content-contact {
   position: relative;
-  background: #464646 url("../img/IMG_7161.jpg.jpg") no-repeat center center fixed;
+  background: #464646 url("../img/contact.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 
 .content-about {
   position: relative;
-  background: #464646 url("../img/IMG_7161.jpg.jpg") no-repeat center center fixed;
+  background: #464646 url("../img/IMG_7161.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 
