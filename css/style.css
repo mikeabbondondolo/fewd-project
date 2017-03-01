@@ -148,7 +148,7 @@ i span {
 
 .content {
   position: relative;
-  background: #464646 url("../img/bk-bridge-1.jpg") no-repeat center center fixed;
+  background: #464646 url("../img/20170225_095120.jpg") no-repeat center center fixed;
   background-size: cover;
  }
 
@@ -228,7 +228,7 @@ i span {
   padding: 40px;
   height: 100%;
   display: block;
-  background: url("../img/homepage_driver_tenpin.jpg") no-repeat;
+  background: url("../img/homepage_driver_about.jpg") no-repeat;
 }
 
 .homepage-driver-two {
@@ -236,7 +236,7 @@ i span {
   padding: 40px;
   height: 100%;
   display: block;
-  background: url("../img/homepage_driver_about.jpg") no-repeat;
+  background: url("../img/homepage_driver_tenpin.jpg") no-repeat;
 }
 
 .homepage-driver-three {
@@ -252,7 +252,7 @@ i span {
   padding: 40px;
   height: 100%;
   display: block;
-  background: url("../img/homepage_driver_vast.jpg") no-repeat;
+  background: url("../img/Worksace-Mockup-TIAA.jpg") no-repeat;
 }
 
 .homepage-driver-five {
@@ -264,6 +264,30 @@ i span {
 }
 
 .homepage-driver-six {
+  text-align: center;
+  padding: 40px;
+  height: 100%;
+  display: block;
+  background: url("../img/Worksace-Mockup-Brinker.jpg") no-repeat;
+}
+
+.homepage-driver-seven {
+  text-align: center;
+  padding: 40px;
+  height: 100%;
+  display: block;
+  background: url("../img/homepage_driver_vast.jpg") no-repeat;
+}
+
+.homepage-driver-eight {
+  text-align: center;
+  padding: 40px;
+  height: 100%;
+  display: block;
+  background: url("../img/contact.jpg") no-repeat;
+}
+
+.homepage-driver-nine {
   text-align: center;
   padding: 40px;
   height: 100%;
