@@ -67,11 +67,10 @@ header h2 {
 }
 
 footer {
-  background-color: grey;
   padding-top: 10px;
   padding-left: 10px;
   padding-right: 10px;
-  padding-bottom: 5px;
+  padding-bottom: 10px;
 }
 
 img {
@@ -448,7 +447,6 @@ i span {
 .footer {
   background-color: black;
   color: white;
-  margin-top: -25px;
   text-align: center;
 }
 
